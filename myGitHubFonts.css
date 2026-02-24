@@ -2,8 +2,9 @@
 
 @font-face {
     font-family: "Monograph";
-    src: url("https://raw.githubusercontent.com/bram-vervust/my-fonts/refs/heads/main/monograph-Regular.ttf")
+    src: url("https://cdn.jsdelivr.net/gh/bram-vervust/my-fonts/monograph-Regular.ttf")
          format("truetype");
     font-weight: normal;
     font-style: normal;
 }
+
